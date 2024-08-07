@@ -1,6 +1,7 @@
-#include "Std_Types.h"
 #ifndef DIO_H
 #define DIO_H
+
+#include "Std_Types.h"
 
 /* Contents of file */
 
